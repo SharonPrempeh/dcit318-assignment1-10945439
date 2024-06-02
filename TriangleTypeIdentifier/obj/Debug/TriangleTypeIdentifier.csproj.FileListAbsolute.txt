@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\dcit318-assignment1-10945439\TriangleTypeIdentifier\bin\Debug\TriangleTypeIdentifier.exe.config
+C:\Users\HP\source\repos\dcit318-assignment1-10945439\TriangleTypeIdentifier\bin\Debug\TriangleTypeIdentifier.exe
+C:\Users\HP\source\repos\dcit318-assignment1-10945439\TriangleTypeIdentifier\bin\Debug\TriangleTypeIdentifier.pdb
+C:\Users\HP\source\repos\dcit318-assignment1-10945439\TriangleTypeIdentifier\obj\Debug\TriangleTypeIdentifier.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\dcit318-assignment1-10945439\TriangleTypeIdentifier\obj\Debug\TriangleTypeIdentifier.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\dcit318-assignment1-10945439\TriangleTypeIdentifier\obj\Debug\TriangleTypeIdentifier.exe
+C:\Users\HP\source\repos\dcit318-assignment1-10945439\TriangleTypeIdentifier\obj\Debug\TriangleTypeIdentifier.pdb
