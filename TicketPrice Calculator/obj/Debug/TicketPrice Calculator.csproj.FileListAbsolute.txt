@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\dcit318-assignment1-10945439\TicketPrice Calculator\bin\Debug\TicketPrice Calculator.exe.config
+C:\Users\HP\source\repos\dcit318-assignment1-10945439\TicketPrice Calculator\bin\Debug\TicketPrice Calculator.exe
+C:\Users\HP\source\repos\dcit318-assignment1-10945439\TicketPrice Calculator\bin\Debug\TicketPrice Calculator.pdb
+C:\Users\HP\source\repos\dcit318-assignment1-10945439\TicketPrice Calculator\obj\Debug\TicketPrice Calculator.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\dcit318-assignment1-10945439\TicketPrice Calculator\obj\Debug\TicketPrice Calculator.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\dcit318-assignment1-10945439\TicketPrice Calculator\obj\Debug\TicketPrice Calculator.exe
+C:\Users\HP\source\repos\dcit318-assignment1-10945439\TicketPrice Calculator\obj\Debug\TicketPrice Calculator.pdb
