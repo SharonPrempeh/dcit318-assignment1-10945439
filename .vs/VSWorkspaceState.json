@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\GradeCalculator",
+    "\\GradeCalculator\\GradeCalculator",
+    "\\GradeCalculator\\GradeCalculator\\bin",
+    "\\GradeCalculator\\GradeCalculator\\bin\\Debug",
+    "\\GradeCalculator\\GradeCalculator\\bin\\Release",
+    "\\GradeCalculator\\GradeCalculator\\obj",
+    "\\GradeCalculator\\GradeCalculator\\obj\\Debug"
+  ],
+  "SelectedNode": "\\GradeCalculator\\GradeCalculator\\GradeCalculator.csproj",
+  "PreviewInSolutionExplorer": false
+}
